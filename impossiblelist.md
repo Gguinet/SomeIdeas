@@ -25,5 +25,8 @@
 * Organize an art exhibit on my work. 
 * Have a collection of 10+ artworks.
 * Give 1000h+ of my time to charities. 
+* Write a book.
+* Live in 10 different cities, at least 6 months. 
+
 
 [Inspiration](https://mattboegner.com/impossible_list/)
