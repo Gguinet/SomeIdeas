@@ -1,6 +1,11 @@
 # SomeIdeas
 Big README
 
+### 04/07:
+
+* ChatGPT+Book: Use babyAGI ideas to make GPT write a book from scratch on a given selected topic.
+* Summarize ideas from Eliezer Yudkowsky podcast.
+
 ### 04/04
 
 * AI, Innovation and Economics: I recall reading an article arguing China "weakened" software companies to prevent pool of talents to divert from real tech innovation (hardware, healthcare ...) to so-called "fake" tech innovation (ads, logistics, HR... ) as spearheaded by Meta, Amazon and co. Interestingly, LLM were possible thanks to funding from such companies to i) develop hardware and tools, ii) educate talents and motivate new ones to join the filed iii) provide useful market to AI in "early" days. 
